@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nibakaran.github.io/sitemap.xml
+# [CONFIRM SITEMAP URL once deployed]
